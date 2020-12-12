@@ -1,0 +1,112 @@
+body{
+    background: #f9bfd4;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar{
+    border-bottom: 3px solid#af013f;
+    background: #b15c77;
+    opacity: 0.7;
+}
+
+#home-section{
+    background: url(../img/6.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 650px;
+    background-attachment: fixed;
+
+}
+
+#home-section .dark-overlay{
+    background: rgb(0,0,0,0,7);
+    min-height: 650px;
+}
+
+#home-section .home-inner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#home-section .far{
+    background: #cb933a;
+    color: #a8d4ff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#home-section .bg-me{
+    background: #c24b77;
+    background: transparent;
+}
+
+#home-section .form-control{
+    background-color: transparent;
+    border: 2px solid #c24b77;
+}
+
+#home-section .btn-outline-light{
+    border-color: #c24b77;
+}
+
+#explore-main-section{
+    background: url(../img/m-b.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 650px;
+    background-attachment: fixed;
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #3a717e;
+}
+
+#explore-main-section .fas{
+    background: #40a3b8;
+    color: #a8d4ff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#create-main-section{
+    background: url(../img/s-b.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 650px;
+    background-attachment: fixed;
+    padding: 50px;
+    color: #fcf3a7;
+}
+
+#create-main-section .fas{
+    background: #f09d68;
+    color: #64525d;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#share-main-section{
+    background: url(../img/m.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 650px;
+    background-attachment: fixed;
+    padding: 50px;
+    color: #fcf3a7;
+}
+
+#share-main-section .fas{
+    background: #f09d68;
+    color: #64525d;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#share-main-section .sarkar{
+    padding-top: 280px;
+}
+
+#footer-section .R{
+    color: rgb(6, 21, 51);
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
